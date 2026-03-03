@@ -24,6 +24,7 @@ Note: The emojis may instead show up as one or several text symbols (e.g. &#9734
 
 ### Self Check
 - The header text is size 32px and weight 900.
+    Yes
 - The header text is vertically centered and 16px from the edge of the screen.
 - The footer is pushed to the bottom of the screen (the footer may go _below_ the bottom of the screen if the content of the 'cards' section overflows and/or if your screen is shorter).
 - The footer text is centered horizontally and vertically.
